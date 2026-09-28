@@ -1,42 +1,42 @@
-# Commitment Café – Kartensätze
+# Commitment Café – Card Decks
 
-Druckfertige Kartendecks für die **Commitment-Café**-Übung (Effectuation /
-Entrepreneurship-Workshop):
+Print-ready card decks for the **Commitment Café** exercise (effectuation /
+entrepreneurship workshop):
 
-- **Lemonade Intervention Cards** – Ereigniskarten, die während der Übung
-  unvorhergesehene Wendungen einbringen
-- **Stakeholder Role Cards** – Rollenkarten für die im Workshop vertretenen
-  Stakeholder
+- **Lemonade Intervention Cards** – event cards that introduce unforeseen
+  twists during the exercise
+- **Stakeholder Role Cards** – role cards for the stakeholders represented
+  in the workshop
 
-Dieses Repository enthält ausschließlich die **fertig generierten PDFs**.
-Vorlage, Konfiguration und Generator-Skript bleiben privat.
+This repository contains only the **finished, generated PDFs**. The
+template, configuration, and generator script remain private.
 
-## Download (immer aktuellste Version)
+## Download (always the latest version)
 
-| Deck | Metrisch (A4) | Imperial (US Letter) |
+| Deck | Metric (A4) | Imperial (US Letter) |
 |---|---|---|
 | Lemonade Intervention Cards | [lemonade_cards_met.pdf](https://github.com/erklaerpierre/commitment-cafe-cards/releases/latest/download/lemonade_cards_met.pdf) | [lemonade_cards_imp.pdf](https://github.com/erklaerpierre/commitment-cafe-cards/releases/latest/download/lemonade_cards_imp.pdf) |
 | Stakeholder Role Cards | [stakeholder_cards_met.pdf](https://github.com/erklaerpierre/commitment-cafe-cards/releases/latest/download/stakeholder_cards_met.pdf) | [stakeholder_cards_imp.pdf](https://github.com/erklaerpierre/commitment-cafe-cards/releases/latest/download/stakeholder_cards_imp.pdf) |
 
-Diese Links zeigen dauerhaft auf das jeweils neueste [Release](../../releases) –
-kein Linkwechsel bei künftigen Updates nötig. Alle bisherigen Versionen
-bleiben über die [Release-Übersicht](../../releases) einsehbar.
+These links always point to the most recent [release](../../releases) – no
+need to update them for future versions. All earlier versions remain
+available in the [release history](../../releases).
 
-Jedes PDF ist druckfertig aufbereitet: Beschnitt, Schnitt- und
-Passermarken, abgerundete Kartenecken, sowie – auf der jeweils ersten
-Indexseite – eine Legendenkarte und ein kompakter Karten-Index.
+Each PDF is print-ready: bleed, crop and registration marks, rounded card
+corners, plus a legend card and a compact card index on the first index
+page.
 
-## Lizenz
+## License
 
-Die Karteninhalte stehen unter
+The card content is licensed under
 **[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)**
-(Namensnennung – Nicht kommerziell – Weitergabe unter gleichen Bedingungen).
-Details siehe [LICENSE](LICENSE).
+(Attribution – NonCommercial – ShareAlike). See [LICENSE](LICENSE) for
+details.
 
-Einzelne Icons in den Karten stammen von Drittanbietern unter CC BY 3.0;
-die vollständige Attribution (Autor:in, Lizenz, Link) ist auf der
-Index-Seite jedes PDFs direkt mit abgedruckt.
+Some icons used on the cards are third-party works under CC BY 3.0; full
+attribution (author, license, link) is printed on the index page of each
+PDF.
 
-## Kontakt
+## Contact
 
 Pierre Smits · [pierresmits.de](https://pierresmits.de)
