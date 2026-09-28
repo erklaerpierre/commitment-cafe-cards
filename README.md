@@ -8,8 +8,7 @@ entrepreneurship workshop):
 - **Stakeholder Role Cards** – role cards for the stakeholders represented
   in the workshop
 
-This repository contains only the **finished, generated PDFs**. The
-template, configuration, and generator script remain private.
+This repository contains the **finished, generated PDFs**.
 
 ## Download (always the latest version)
 
