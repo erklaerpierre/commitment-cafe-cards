@@ -16,10 +16,10 @@ This repository contains the **finished, generated PDFs**.
 
 ## Download (always the latest version)
 
-| Deck | Metric (A4) | Imperial (US Letter) |
+| Deck | Metric (A4/A3) | Imperial (US Letter/Tabloid) |
 |---|---|---|
-| Lemonade Intervention Cards | [lemonade_cards_met.pdf](https://github.com/erklaerpierre/commitment-cafe-cards/releases/latest/download/lemonade_cards_met.pdf) | [lemonade_cards_imp.pdf](https://github.com/erklaerpierre/commitment-cafe-cards/releases/latest/download/lemonade_cards_imp.pdf) |
-| Stakeholder Role Cards | [stakeholder_cards_met.pdf](https://github.com/erklaerpierre/commitment-cafe-cards/releases/latest/download/stakeholder_cards_met.pdf) | [stakeholder_cards_imp.pdf](https://github.com/erklaerpierre/commitment-cafe-cards/releases/latest/download/stakeholder_cards_imp.pdf) |
+| Lemonade Intervention Cards | [lemonade_cards_met.pdf](https://github.com/erklaerpierre/commitment-cafe-cards/releases/latest/download/lemonade_cards_met.pdf) (A4) | [lemonade_cards_imp.pdf](https://github.com/erklaerpierre/commitment-cafe-cards/releases/latest/download/lemonade_cards_imp.pdf) (US Letter) |
+| Stakeholder Role Cards | [stakeholder_cards_met.pdf](https://github.com/erklaerpierre/commitment-cafe-cards/releases/latest/download/stakeholder_cards_met.pdf) (A4) | [stakeholder_cards_imp.pdf](https://github.com/erklaerpierre/commitment-cafe-cards/releases/latest/download/stakeholder_cards_imp.pdf) (US Letter) |
 | Commitment Voucher | [commitment_vouchers_met.pdf](https://github.com/erklaerpierre/commitment-cafe-cards/releases/latest/download/commitment_vouchers_met.pdf) (A4) | [commitment_vouchers_imp.pdf](https://github.com/erklaerpierre/commitment-cafe-cards/releases/latest/download/commitment_vouchers_imp.pdf) (US Letter) |
 | Quilt Canvas | [quilt_canvas_met.pdf](https://github.com/erklaerpierre/commitment-cafe-cards/releases/latest/download/quilt_canvas_met.pdf) (A3) | [quilt_canvas_imp.pdf](https://github.com/erklaerpierre/commitment-cafe-cards/releases/latest/download/quilt_canvas_imp.pdf) (Tabloid) |
 
