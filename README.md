@@ -7,6 +7,10 @@ entrepreneurship workshop):
   twists during the exercise
 - **Stakeholder Role Cards** – role cards for the stakeholders represented
   in the workshop
+- **Commitment Voucher** – printable template, four vouchers per page, on
+  which stakeholders record each commitment
+- **Quilt Canvas** – printable team canvas (A3 / Tabloid) with the five
+  areas of the Crazy Quilt
 
 This repository contains the **finished, generated PDFs**.
 
@@ -16,12 +20,14 @@ This repository contains the **finished, generated PDFs**.
 |---|---|---|
 | Lemonade Intervention Cards | [lemonade_cards_met.pdf](https://github.com/erklaerpierre/commitment-cafe-cards/releases/latest/download/lemonade_cards_met.pdf) | [lemonade_cards_imp.pdf](https://github.com/erklaerpierre/commitment-cafe-cards/releases/latest/download/lemonade_cards_imp.pdf) |
 | Stakeholder Role Cards | [stakeholder_cards_met.pdf](https://github.com/erklaerpierre/commitment-cafe-cards/releases/latest/download/stakeholder_cards_met.pdf) | [stakeholder_cards_imp.pdf](https://github.com/erklaerpierre/commitment-cafe-cards/releases/latest/download/stakeholder_cards_imp.pdf) |
+| Commitment Voucher | [commitment_vouchers_met.pdf](https://github.com/erklaerpierre/commitment-cafe-cards/releases/latest/download/commitment_vouchers_met.pdf) (A4) | [commitment_vouchers_imp.pdf](https://github.com/erklaerpierre/commitment-cafe-cards/releases/latest/download/commitment_vouchers_imp.pdf) (US Letter) |
+| Quilt Canvas | [quilt_canvas_met.pdf](https://github.com/erklaerpierre/commitment-cafe-cards/releases/latest/download/quilt_canvas_met.pdf) (A3) | [quilt_canvas_imp.pdf](https://github.com/erklaerpierre/commitment-cafe-cards/releases/latest/download/quilt_canvas_imp.pdf) (Tabloid) |
 
 These links always point to the most recent [release](../../releases) – no
 need to update them for future versions. All earlier versions remain
 available in the [release history](../../releases).
 
-Each PDF is print-ready: bleed, crop and registration marks, rounded card
+Each card deck PDF is print-ready: bleed, crop and registration marks, rounded card
 corners, plus a legend card and a compact card index on the first index
 page.
 
