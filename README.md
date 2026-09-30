@@ -13,6 +13,8 @@ entrepreneurship workshop):
   which stakeholders record each commitment
 - **Quilt Canvas** – printable team canvas (A3 / Tabloid) with the five
   areas of the Crazy Quilt
+- **Post-Work Sheet** – one-page handout for the post-work assignment
+  (founders, stakeholders, and an alternative for everyone)
 
 This repository contains the **finished, generated PDFs**.
 
@@ -26,6 +28,7 @@ This repository contains the **finished, generated PDFs**.
 | Stakeholder Role Cards (short) | [stakeholder_short_cards_met.pdf](https://github.com/erklaerpierre/commitment-cafe-cards/releases/latest/download/stakeholder_short_cards_met.pdf) (A4) | [stakeholder_short_cards_imp.pdf](https://github.com/erklaerpierre/commitment-cafe-cards/releases/latest/download/stakeholder_short_cards_imp.pdf) (US Letter) |
 | Commitment Voucher | [commitment_vouchers_met.pdf](https://github.com/erklaerpierre/commitment-cafe-cards/releases/latest/download/commitment_vouchers_met.pdf) (A4) | [commitment_vouchers_imp.pdf](https://github.com/erklaerpierre/commitment-cafe-cards/releases/latest/download/commitment_vouchers_imp.pdf) (US Letter) |
 | Quilt Canvas | [quilt_canvas_met.pdf](https://github.com/erklaerpierre/commitment-cafe-cards/releases/latest/download/quilt_canvas_met.pdf) (A3) | [quilt_canvas_imp.pdf](https://github.com/erklaerpierre/commitment-cafe-cards/releases/latest/download/quilt_canvas_imp.pdf) (Tabloid) |
+| Post-Work Sheet | [post_work_sheet_met.pdf](https://github.com/erklaerpierre/commitment-cafe-cards/releases/latest/download/post_work_sheet_met.pdf) (A4) | [post_work_sheet_imp.pdf](https://github.com/erklaerpierre/commitment-cafe-cards/releases/latest/download/post_work_sheet_imp.pdf) (US Letter) |
 
 These links always point to the most recent [release](../../releases) – no
 need to update them for future versions. All earlier versions remain
