@@ -7,6 +7,8 @@ entrepreneurship workshop):
   twists during the exercise
 - **Stakeholder Role Cards** – role cards for the stakeholders represented
   in the workshop
+- **Short versions** of both decks – condensed card texts, identical to the
+  card appendices of the book chapter
 - **Commitment Voucher** – printable template, four vouchers per page, on
   which stakeholders record each commitment
 - **Quilt Canvas** – printable team canvas (A3 / Tabloid) with the five
@@ -20,6 +22,8 @@ This repository contains the **finished, generated PDFs**.
 |---|---|---|
 | Lemonade Intervention Cards | [lemonade_cards_met.pdf](https://github.com/erklaerpierre/commitment-cafe-cards/releases/latest/download/lemonade_cards_met.pdf) (A4) | [lemonade_cards_imp.pdf](https://github.com/erklaerpierre/commitment-cafe-cards/releases/latest/download/lemonade_cards_imp.pdf) (US Letter) |
 | Stakeholder Role Cards | [stakeholder_cards_met.pdf](https://github.com/erklaerpierre/commitment-cafe-cards/releases/latest/download/stakeholder_cards_met.pdf) (A4) | [stakeholder_cards_imp.pdf](https://github.com/erklaerpierre/commitment-cafe-cards/releases/latest/download/stakeholder_cards_imp.pdf) (US Letter) |
+| Lemonade Intervention Cards (short) | [lemonade_short_cards_met.pdf](https://github.com/erklaerpierre/commitment-cafe-cards/releases/latest/download/lemonade_short_cards_met.pdf) (A4) | [lemonade_short_cards_imp.pdf](https://github.com/erklaerpierre/commitment-cafe-cards/releases/latest/download/lemonade_short_cards_imp.pdf) (US Letter) |
+| Stakeholder Role Cards (short) | [stakeholder_short_cards_met.pdf](https://github.com/erklaerpierre/commitment-cafe-cards/releases/latest/download/stakeholder_short_cards_met.pdf) (A4) | [stakeholder_short_cards_imp.pdf](https://github.com/erklaerpierre/commitment-cafe-cards/releases/latest/download/stakeholder_short_cards_imp.pdf) (US Letter) |
 | Commitment Voucher | [commitment_vouchers_met.pdf](https://github.com/erklaerpierre/commitment-cafe-cards/releases/latest/download/commitment_vouchers_met.pdf) (A4) | [commitment_vouchers_imp.pdf](https://github.com/erklaerpierre/commitment-cafe-cards/releases/latest/download/commitment_vouchers_imp.pdf) (US Letter) |
 | Quilt Canvas | [quilt_canvas_met.pdf](https://github.com/erklaerpierre/commitment-cafe-cards/releases/latest/download/quilt_canvas_met.pdf) (A3) | [quilt_canvas_imp.pdf](https://github.com/erklaerpierre/commitment-cafe-cards/releases/latest/download/quilt_canvas_imp.pdf) (Tabloid) |
 
