@@ -45,9 +45,7 @@ The card content is licensed under
 (Attribution – NonCommercial – ShareAlike). See [LICENSE](LICENSE) for
 details.
 
-Some icons used on the cards are third-party works under CC BY 3.0; full
-attribution (author, license, link) is printed on the index page of each
-PDF.
+Some icons used on the cards are third-party works under CC BY 3.0; full attribution (author, license, link) is printed on the index page of each PDF.
 
 ## Contact
 
