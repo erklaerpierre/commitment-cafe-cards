@@ -3,18 +3,23 @@
 Print-ready card decks for the **Commitment Café** exercise (effectuation /
 entrepreneurship workshop):
 
-- **Lemonade Intervention Cards** – event cards that introduce unforeseen
-  twists during the exercise
-- **Stakeholder Role Cards** – role cards for the stakeholders represented
-  in the workshop
-- **Short versions** of both decks – condensed card texts, identical to the
-  card appendices of the book chapter
-- **Commitment Voucher** – printable template, four vouchers per page, on
-  which stakeholders record each commitment
-- **Quilt Canvas** – printable team canvas (A3 / Tabloid) with the five
-  areas of the Crazy Quilt
-- **Post-Work Sheet** – one-page handout for the post-work assignment
-  (founders, stakeholders, and an alternative for everyone)
+
+- **Commitment Voucher**
+  - printable template, four vouchers per page, on which stakeholders record each commitment
+- **Founder Information Card**
+  - cards with ground rules for founding teams
+- **Lemonade Intervention Cards**
+  - event cards that introduce unforeseen twists during the exercise
+  - 2 versions: long and condensed/short card texts
+- **Post-Work Sheet**
+  - one-page handout for the post-work assignment (founders, stakeholders, and an alternative for everyone)
+- **Quilt Canvas**
+  - printable team canvas (A3 / Tabloid) with the five areas of the Crazy Quilt
+- **Rotation Plan**
+  - example information about which team sits at which table in which round
+- **Stakeholder Role Cards**
+  - role cards for the stakeholders represented in the workshop
+  - 2 versions: long and condensed/short card texts
 
 This repository contains the **finished, generated PDFs**.
 
