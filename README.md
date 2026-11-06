@@ -1,4 +1,4 @@
-# Commitment Café – Card Decks
+# Commitment Café – Card Decks and Material
 
 Print-ready card decks, templates and text versions for the **Commitment Café**
 exercise (effectuation / entrepreneurship workshop). They accompany the chapter
@@ -27,7 +27,7 @@ Every item comes in two versions: **metric** (A4 / A3) and **imperial** (US Lett
 There are two kinds of files:
 
 1. **Print-ready PDFs** – the visually designed cards and templates (see below).
-2. **Text versions (Word)** – the plain text of the same material as editable Word documents,
+2. **Text versions (Word)** – the plain text of the same material, long and short card texts, as editable Word documents,
    one card or template per page, in A4 and US Letter. Use them to read, translate, adapt or
    print the content in your own layout.
 
@@ -57,12 +57,12 @@ README and the license.
 | Commitment Voucher | [commitment_vouchers_text_met](https://github.com/erklaerpierre/commitment-cafe-cards/releases/latest/download/commitment_vouchers_text_met.docx) (A4) | [commitment_vouchers_text_imp](https://github.com/erklaerpierre/commitment-cafe-cards/releases/latest/download/commitment_vouchers_text_imp.docx) (US Letter) | 1 page |
 | Founder Information Card | [founder_information_card_text_met](https://github.com/erklaerpierre/commitment-cafe-cards/releases/latest/download/founder_information_card_text_met.docx) (A4) | [founder_information_card_text_imp](https://github.com/erklaerpierre/commitment-cafe-cards/releases/latest/download/founder_information_card_text_imp.docx) (US Letter) | 1 page |
 | Lemonade Intervention Cards | [lemonade_cards_text_met](https://github.com/erklaerpierre/commitment-cafe-cards/releases/latest/download/lemonade_cards_text_met.docx) (A4) | [lemonade_cards_text_imp](https://github.com/erklaerpierre/commitment-cafe-cards/releases/latest/download/lemonade_cards_text_imp.docx) (US Letter) | one card per page |
+| Lemonade Intervention Cards (short) | [lemonade_cards_text_short_met](https://github.com/erklaerpierre/commitment-cafe-cards/releases/latest/download/lemonade_cards_text_short_met.docx) (A4) | [lemonade_cards_text_short_imp](https://github.com/erklaerpierre/commitment-cafe-cards/releases/latest/download/lemonade_cards_text_short_imp.docx) (US Letter) | one card per page |
 | Post-Work Sheet | [post_work_sheet_text_met](https://github.com/erklaerpierre/commitment-cafe-cards/releases/latest/download/post_work_sheet_text_met.docx) (A4) | [post_work_sheet_text_imp](https://github.com/erklaerpierre/commitment-cafe-cards/releases/latest/download/post_work_sheet_text_imp.docx) (US Letter) | 1 page |
 | Quilt Canvas | [quilt_canvas_text_met](https://github.com/erklaerpierre/commitment-cafe-cards/releases/latest/download/quilt_canvas_text_met.docx) (A4) | [quilt_canvas_text_imp](https://github.com/erklaerpierre/commitment-cafe-cards/releases/latest/download/quilt_canvas_text_imp.docx) (US Letter) | 1 page |
 | Rotation Plan | [rotation_plan_text_met](https://github.com/erklaerpierre/commitment-cafe-cards/releases/latest/download/rotation_plan_text_met.docx) (A4) | [rotation_plan_text_imp](https://github.com/erklaerpierre/commitment-cafe-cards/releases/latest/download/rotation_plan_text_imp.docx) (US Letter) | 2 pages |
 | Stakeholder Role Cards | [stakeholder_role_cards_text_met](https://github.com/erklaerpierre/commitment-cafe-cards/releases/latest/download/stakeholder_role_cards_text_met.docx) (A4) | [stakeholder_role_cards_text_imp](https://github.com/erklaerpierre/commitment-cafe-cards/releases/latest/download/stakeholder_role_cards_text_imp.docx) (US Letter) | one role per page |
-
-The text versions contain the long card texts. The short card texts are only available in the print-ready PDFs.
+| Stakeholder Role Cards (short) | [stakeholder_role_cards_text_short_met](https://github.com/erklaerpierre/commitment-cafe-cards/releases/latest/download/stakeholder_role_cards_text_short_met.docx) (A4) | [stakeholder_role_cards_text_short_imp](https://github.com/erklaerpierre/commitment-cafe-cards/releases/latest/download/stakeholder_role_cards_text_short_imp.docx) (US Letter) | one role per page |
 
 These links always point to the most recent [release](../../releases) – no
 need to update them for future versions. All earlier versions remain
